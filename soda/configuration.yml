@@ -10,5 +10,5 @@ data_source datasource_n:
      role: ACCOUNTADMIN
 soda_cloud:
      host: cloud.us.soda.io
-     api_key_id: 0a8d0c0d-4a04-4b7c-9355-db56abcb7da6
-     api_key_secret: xtk7yQX9KqDlZVU-7lBw3HvIqFgVu8QFKvFIr2JFErFYFfIJnzYBZA
+     api_key_id: a0933b60-03a2-4db6-818f-b5b0c12a4916
+     api_key_secret: dmv6ajt8LRo7Svmb9HLIU-PFRletfYxvf3FrYGdeEgHJ_x39TLE6HA

@@ -4,10 +4,10 @@ data_source datasource_n:
      username: NEELABH108
      password: Expleo#2024
      account: ge83479.central-india.azure
-     database: dbt_db
-     schema: dbt_schema
-     warehouse: dbt_wh
-     role: dbt_role
+     database: NEW_DB
+     schema: NEW_SCHEMA
+     warehouse: COMPUTE_WH
+     role: ACCOUNTADMIN
 soda_cloud:
      host: cloud.us.soda.io
      api_key_id: 0a8d0c0d-4a04-4b7c-9355-db56abcb7da6

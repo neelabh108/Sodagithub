@@ -21,8 +21,8 @@ jobs:
         with:
          soda_library_version: v1.0.4
          data_source: datasource_n
-         configuration: ./Soda/configuration.yml
-         checks: ./Soda/checks.yml
+         configuration: ./soda/configuration.yml
+         checks: ./soda/checks.yml
  
  
       - name: Perform Soda Scan
@@ -35,5 +35,5 @@ jobs:
         with:
          soda_library_version: v1.0.4
          data_source: datasource_n
-         configuration: ./Soda/configuration.yml
-         checks: ./Soda/checks.yml
+         configuration: ./soda/configuration.yml
+         checks: ./soda/checks.yml

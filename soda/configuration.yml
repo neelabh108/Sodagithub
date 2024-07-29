@@ -1,11 +1,10 @@
-
-data_source datasource_n:
+data_source dbsource1:
      type: snowflake
-     username: NEELABH108
-     password: Expleo#2024
-     account: ge83479.central-india.azure
-     database: NEW_DB
-     schema: NEW_SCHEMA
+     username: NEELABH02
+     password: Welcome@123
+     account: sn90446.europe-west4.gcp
+     database: MY_DB
+     schema: MY_SCHEMA
      warehouse: COMPUTE_WH
      role: ACCOUNTADMIN
 soda_cloud:

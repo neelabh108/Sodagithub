@@ -1,4 +1,3 @@
-
 data_source dbsource1:
      type: snowflake
      username: NEELABH02

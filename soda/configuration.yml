@@ -12,7 +12,7 @@ soda_cloud:
      host: cloud.us.soda.io
      api_key_id: a0933b60-03a2-4db6-818f-b5b0c12a4916
      api_key_secret: dmv6ajt8LRo7Svmb9HLIU-PFRletfYxvf3FrYGdeEgHJ_x39TLE6HA
-dbt_cloud:
-     account_id: 70403103935295
-     api_token: dbtc_oofe0zwNt3Ho7sbSkJWc2mpQ35YWDuOYDxISx8drz5boA83B3Y
-     access_url: https://hd377.us1.dbt.com/
+# dbt_cloud:
+#      account_id: 70403103935295
+#      api_token: dbtc_oofe0zwNt3Ho7sbSkJWc2mpQ35YWDuOYDxISx8drz5boA83B3Y
+#      access_url: https://hd377.us1.dbt.com/
